@@ -3,8 +3,8 @@ h1 {
     margin-left: 20px;
 }
 
-ul, ol {
-    padding: 0px 20px;
+ul > li {
+    margin-left: 10px;
 }
 
 li:not(:last-child) {
