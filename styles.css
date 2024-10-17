@@ -22,7 +22,14 @@ li:not(:last-child) {
 
 .main-container {
     display: flex;
-    align-items: stretch;
+}
+  
+.left-image {
+    flex: 1 1 0;
+}
+  
+.right-text {
+    flex: 2 1 0;
 }
 
 p {
