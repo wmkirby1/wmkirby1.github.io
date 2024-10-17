@@ -23,6 +23,7 @@ li:not(:last-child) {
 .main-container {
     display: flex;
     justify-content: flex-start;
+    align-items: flex-start;
 }
 
 p {
