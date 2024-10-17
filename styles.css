@@ -19,3 +19,11 @@ ul:last-of-type {
 li:not(:last-child) {
     margin-bottom: 8px;
 }
+
+.main-container {
+    display: flex;
+  }
+  p {
+    margin-top: 0;
+    margin-left: 10px;
+  }
