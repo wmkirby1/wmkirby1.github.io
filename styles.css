@@ -25,11 +25,11 @@ li:not(:last-child) {
 }
   
 .left-image {
-    flex: 1 1 0;
+    flex: 1 1 auto;
 }
   
 .right-text {
-    flex: 2 1 0;
+    flex: 2 1 auto;
 }
 
 p {
