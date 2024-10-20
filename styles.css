@@ -38,4 +38,8 @@ li:not(:last-child) {
 ul.nav-bar {
     list-style-type: none;
     display: inline;
-  }
+}
+
+li.nav-bar {
+    float:left;
+}
