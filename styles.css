@@ -36,6 +36,6 @@ li:not(:last-child) {
 }
 
 ul.nav-bar {
-    display: inline;
     list-style-type: none;
+    display: inline;
   }
