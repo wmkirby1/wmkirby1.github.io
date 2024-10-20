@@ -35,7 +35,6 @@ li:not(:last-child) {
     flex: 1 1 auto;
 }
 
-p {
-    margin-top: 0;
-    margin-left: 10px;
-}
+.nav-bar {
+    display: inline;
+  }
