@@ -44,6 +44,12 @@ li.nav-bar {
     float:left;
 }
 
+li.active {
+    float:left;
+    background-color: rgb(7, 68, 142);
+    color: white
+}
+
 li a {
     text-align: center;
     padding: 14px 16px;
